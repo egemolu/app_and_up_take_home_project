@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "843061929994",
+    "project_id": "app-and-up-ege",
+    "storage_bucket": "app-and-up-ege.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843061929994:android:8e0f222d46471d625617f3",
+        "android_client_info": {
+          "package_name": "com.example.app_and_up_take_home_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843061929994-c6ti40qfqcttl4mq91qd7brg6qol2r6h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app_and_up_take_home_project",
+            "certificate_hash": "0a404b260ea4b7f9e55f35e465d85724692d03f1"
+          }
+        },
+        {
+          "client_id": "843061929994-s48alsg02iujdml2fqu3da4amusu5psh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtrRgTnyjK0OZkQiOyOvcYiVe08nLy7yQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843061929994-s48alsg02iujdml2fqu3da4amusu5psh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "843061929994-tqg57kdpn0m2spbf7q4nvnjc5ktvdofe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appAndUpTakeHomeProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
