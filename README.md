@@ -1,4 +1,4 @@
-# app_and_up_take_home_project
+App and Up Interview Take Home Project 
 
 A new Flutter project for App and Up take home project.
 
@@ -6,3 +6,5 @@ A new Flutter project for App and Up take home project.
 Firebase Authentication
 Google Signin
 Google Books API
+Responsive
+
